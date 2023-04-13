@@ -13,3 +13,17 @@
     display: grid;
     place-content: center;
 }
+
+.ltext-203 {
+  font-family: Century Gothic;
+  font-size: 28px;
+  line-height: 1.2857;
+}
+
+.main-menu > li.active-menu2 > a {
+  color: #36A9E1;
+}
+
+.text-justify {
+  text-align: justify;
+}
